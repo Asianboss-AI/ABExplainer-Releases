@@ -5,22 +5,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>ABExplainer</title>
         <item>
             <title>1.0.0</title>
-            <pubDate>Thu, 01 Oct 2026 16:08:27 +0900</pubDate>
-            <sparkle:version>18</sparkle:version>
+            <pubDate>Thu, 15 Oct 2026 16:20:34 +0900</pubDate>
+            <sparkle:version>19</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# AB Explainer 1.0.0 (18)
+            <description sparkle:format="markdown"><![CDATA[# AB Explainer 1.0.0 (19)
 
-- Add per-caption comments and revision proposals with approval, rejection, and undo.
-- Store project feedback in Firebase using the existing sign-in.
-- Use explicitly approved company examples for future caption runs.
+- Click caption text in the right pane to edit it directly.
+- Press Enter to insert a line break at the cursor, with native selection and undo.
+- Save direct edits with the project and use them in video previews and SRT exports.
+- Keep direct edits out of AI feedback prompts and company style examples.
 
-This is the previously distributed build 18, republished to restore automatic updates.
+Signed with the existing Developer ID and Sparkle production identities, and notarized by Apple.
 ]]></description>
-            <enclosure url="https://github.com/Asianboss-AI/ABExplainer-Releases/releases/download/abexplainer-v1.0.0-b18/ABExplainer-1.0.0-b18.zip" length="5849152" type="application/octet-stream" sparkle:edSignature="aUCWhGhCK5RlOdXcPkGBen8NS8Fv4du3fUZYK73kKbs0ZVvXCWkLNw8DuFZe9DM5TotLiG8rEsaBeotJJCkHCQ=="></enclosure>
+            <enclosure url="https://github.com/Asianboss-AI/ABExplainer-Releases/releases/download/abexplainer-v1.0.0-b19/ABExplainer-1.0.0-b19.zip" length="5886416" type="application/octet-stream" sparkle:edSignature="pI6wcIowrUROS6VRdJ9I4Q/E0GZ3WslcnXmBnOJcTbU9mIzT8tHkCcONf9XmkxjqsWhWhYiAv1HmbprOeC1RAQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: y/SIsLaDv5Y/mgoALkIVERllMRvj/tilmnNdWRFKnFYGCkVy//xZIU7jIgCgduQzp+LDu8hqHHyRSlzUZo8mBw==
-length: 1496
+edSignature: W8wo1SYeH0r+ATxv3PtEYZNdw9o0s/CcpwvIRy91uSD4O9ZmqQ51q/7f33JB/FXPxMl2pKZWSNZkcn9DAcEsDA==
+length: 1591
 -->

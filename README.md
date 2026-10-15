@@ -7,6 +7,12 @@ Signed and notarized macOS releases for AB Explainer.
 
 The application source is maintained privately. This repository contains only public update metadata and release assets.
 
+## Current release
+
+[**AB Explainer 1.0.0 (19)**](https://github.com/Asianboss-AI/ABExplainer-Releases/releases/tag/abexplainer-v1.0.0-b19) adds direct caption editing and Enter line breaks. Manual edits stay out of AI feedback and company examples.
+
+The release ZIP is signed and notarized. SHA-256: `51d655f0d7bbba5ee682b7f7189f4795c2481f60cdbcb113e48899884bc2410b`.
+
 ## Publishing updates
 
 1. Build a new release with an increasing bundle build number and the existing production Sparkle public key.
