@@ -1,0 +1,26 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>ABExplainer</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Thu, 01 Oct 2026 16:08:27 +0900</pubDate>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# AB Explainer 1.0.0 (18)
+
+- Add per-caption comments and revision proposals with approval, rejection, and undo.
+- Store project feedback in Firebase using the existing sign-in.
+- Use explicitly approved company examples for future caption runs.
+
+This is the previously distributed build 18, republished to restore automatic updates.
+]]></description>
+            <enclosure url="https://github.com/Asianboss-AI/ABExplainer-Releases/releases/download/abexplainer-v1.0.0-b18/ABExplainer-1.0.0-b18.zip" length="5849152" type="application/octet-stream" sparkle:edSignature="aUCWhGhCK5RlOdXcPkGBen8NS8Fv4du3fUZYK73kKbs0ZVvXCWkLNw8DuFZe9DM5TotLiG8rEsaBeotJJCkHCQ=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: y/SIsLaDv5Y/mgoALkIVERllMRvj/tilmnNdWRFKnFYGCkVy//xZIU7jIgCgduQzp+LDu8hqHHyRSlzUZo8mBw==
+length: 1496
+-->
