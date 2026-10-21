@@ -4,19 +4,27 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>AB Caption</title>
         <item>
-            <title>1.0.2</title>
-            <pubDate>Wed, 21 Oct 2026 19:03:09 +0900</pubDate>
-            <sparkle:version>21</sparkle:version>
-            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <title>1.0.3</title>
+            <pubDate>Wed, 21 Oct 2026 22:19:13 +0900</pubDate>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# AB Caption 1.0.2
+            <description sparkle:format="markdown"><![CDATA[# AB Caption 1.0.3 (22)
 
-Improved server connections for caption generation and feedback. Your sign-in, projects and automatic updates are preserved.
+- More spacious toolbar controls and a clearly labeled account menu.
+- Readable quality-warning tooltips on individual captions.
+- Current-caption highlighting, previous/next navigation, and optional playback following.
+- Clearer generation progress and simpler model settings.
+- Continue reviewing and editing other projects while captions are being generated.
+
+Universal macOS app for Apple silicon and Intel. Signed with Developer ID and notarized by Apple.
+
+Source commit: `c8f30247ae5c9a0a5668dfa8363117ebf64da194`.
 ]]></description>
-            <enclosure url="https://github.com/Asianboss-AI/ABExplainer-Releases/releases/download/abexplainer-v1.0.2-b21/ABCaption-1.0.2-b21.zip" length="5645223" type="application/octet-stream" sparkle:edSignature="kht1NLopDieSV4YpIHg2KHESzFp5mzl7ITmONj1Mn3bTOV8Vfvw1HBmcI+CjgpMeUwLlroqWqRhDBk+6aCrDAQ=="></enclosure>
+            <enclosure url="https://github.com/Asianboss-AI/ABExplainer-Releases/releases/download/abexplainer-v1.0.3-b22/ABCaption-1.0.3.zip" length="5893468" type="application/octet-stream" sparkle:edSignature="Imb0vq/OSWlI44wYjGq1GQ2C5GzXV9c+LAuiNYgZ9xQiaySCgCbfOVT47d1Mt1Y1Lvn2TLXYbZWrJenolu2eDw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: O4IXACqlMm9pwMyDW6QyzlsQ/zu+p1gpW4jTdfx4ZTmRjewoNw4MARYraQ0aTzQHtZUIKJuw87USVqJYN1tBAw==
-length: 1304
+edSignature: 538K4FUPvUieu1hq5rpFS0xThWtfGzomsNGfQEZFSQCuz0t8YXgiLK0/01CjJzO80ZWeMZfyNZlsW8sDHUANBw==
+length: 1701
 -->
