@@ -4,22 +4,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>AB Caption</title>
         <item>
-            <title>1.0.1</title>
-            <pubDate>Wed, 21 Oct 2026 18:10:02 +0900</pubDate>
-            <sparkle:version>20</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <title>1.0.2</title>
+            <pubDate>Wed, 21 Oct 2026 19:03:09 +0900</pubDate>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# AB Caption 1.0.1 (20)
+            <description sparkle:format="markdown"><![CDATA[# AB Caption 1.0.2
 
-- 앱 이름을 AB Caption으로 변경했습니다.
-- 앱 아이콘의 글자를 CAPTION으로 변경하고 기존 AB 로고와 밝은·어두운 스타일을 유지했습니다.
-- CAPTION 글자의 폭을 상단 로고의 92%로 조정했습니다.
-- 기존 프로젝트, 로그인 정보, 자동 업데이트 피드를 그대로 이어서 사용합니다.
+Improved server connections for caption generation and feedback. Your sign-in, projects and automatic updates are preserved.
 ]]></description>
-            <enclosure url="https://github.com/Asianboss-AI/ABExplainer-Releases/releases/download/abexplainer-v1.0.1-b20/ABCaption-1.0.1-b20.zip" length="5646499" type="application/octet-stream" sparkle:edSignature="zS6O/3d59dwidmWF3CSuiZWESWJVrQrGmaRd5WDWSBvmXRS8bx2uSJV1F8Fx+jjtLOfaDOy3j2o4n3ImsbPrCw=="></enclosure>
+            <enclosure url="https://github.com/Asianboss-AI/ABExplainer-Releases/releases/download/abexplainer-v1.0.2-b21/ABCaption-1.0.2-b21.zip" length="5645223" type="application/octet-stream" sparkle:edSignature="kht1NLopDieSV4YpIHg2KHESzFp5mzl7ITmONj1Mn3bTOV8Vfvw1HBmcI+CjgpMeUwLlroqWqRhDBk+6aCrDAQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: LiYh0PwfSBw0WuOZ5Iexc4tD54rENcnsypdNbRNm5qHxBnRY+ezsi+EB2aLZpwxKS6jKcHR4OUmooi7rjRa4Bw==
-length: 1543
+edSignature: O4IXACqlMm9pwMyDW6QyzlsQ/zu+p1gpW4jTdfx4ZTmRjewoNw4MARYraQ0aTzQHtZUIKJuw87USVqJYN1tBAw==
+length: 1304
 -->
